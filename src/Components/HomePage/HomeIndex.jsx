@@ -80,7 +80,7 @@ export default function HomeIndex() {
                 ></path>
               </svg>
             </div>
-            <h1>SH Sazib Bhuiyan</h1>
+            <h1>SH Sazib</h1>
             <h2>
               I'm a{" "}
               <span style={{ color: "rgb(5, 94, 74)", fontWeight: "bold" }}>
