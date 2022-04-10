@@ -1,0 +1,58 @@
+.work-container{
+    width: 650px;
+    height: 460px;
+    padding: 20px 0;
+    background-color: rgb(214, 214, 214);
+    float: left;
+    margin-top: 75px;
+    border-radius: 0 5px 5px 0px;
+    display: flex;
+}
+.full-work{
+    width: 100%;
+    height: auto;
+    overflow: auto;
+}
+
+
+.design{
+    margin: 15px;
+    padding: 25px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    color: rgb(58, 58, 58);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgb(170, 170, 170);
+
+}
+.all-design{
+    padding-bottom: 5px;
+}
+.all-design h2{
+    margin: 20px 0px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(170, 170, 170);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1320px){
+    .work-container {
+      width: 90%;
+      height: 1%;
+      margin-left: 5%;
+      border-radius: 5px;
+    }
+    }

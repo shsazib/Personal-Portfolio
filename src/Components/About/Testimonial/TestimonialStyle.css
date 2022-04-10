@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&display=swap');
+
+
+
+
+.testimonial-item{
+    margin-bottom: 20px;
+}
+.comment{
+    text-align: center;
+    margin: 15px 16px 35px 16px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: rgb(148, 148, 148);
+}
+.testimonial-item img{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.testimonial-item h3{
+    text-align: center;
+    color: rgb(58, 58, 58);
+    margin: 5px;
+    color: rgb(5, 94, 74);
+}
+.surname{
+    text-align: center;
+    color: rgb(94, 94, 94);
+    padding: 2px;
+    font-weight: bold;
+}
+
+
+.slick-prev:before,
+.slick-next:before {
+  color: rgb(5, 94, 74) !important;
+}
+.slick-prev{
+    margin-left: 10px;
+}
+.slick-next{
+    margin-right: 10px;
+}
